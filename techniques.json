@@ -1,0 +1,1382 @@
+[
+    {
+        "name": "Cervical - Muscle Energy",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation)",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3)",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 6",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 7",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 8",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 9",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 10",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 11",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 12",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 13",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 14",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 15",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 16",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 17",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 18",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 19",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 20",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 21",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 22",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 23",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 24",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 25",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 26",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 27",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 28",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 29",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 30",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 31",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 32",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 33",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 34",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 35",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 36",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 37",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 38",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 39",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 40",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 41",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 42",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 43",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 44",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 45",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 46",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 47",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 48",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 49",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 50",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 51",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 52",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 53",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 54",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 55",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 56",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 57",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 58",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 59",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 60",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 61",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 62",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 63",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 64",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 65",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 66",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 67",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 68",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 69",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 70",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 71",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 72",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 73",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 74",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 75",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 76",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 77",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 78",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 79",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 80",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 81",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 82",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 83",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 84",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 85",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 86",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 87",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 88",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 89",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 90",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 91",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 92",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 93",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 94",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 95",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    },
+    {
+        "name": "Cervical - Muscle Energy Copy 96",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Restricted cervical motion, muscular hypertonicity.",
+        "contraindications": "Fracture, severe arthritis, vertebral artery insufficiency.",
+        "instructions": [
+            "1. Assess restricted cervical motion.",
+            "2. Position patient to engage the barrier.",
+            "3. Instruct patient to gently resist your counterforce for 3-5 seconds.",
+            "4. Relax and reposition to new barrier.",
+            "5. Repeat 3-5 times until motion improves."
+        ]
+    },
+    {
+        "name": "Thoracic HVLA - Type I Dysfunction Copy 97",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Somatic dysfunction of thoracic spine with Type I characteristics.",
+        "contraindications": "Fracture, osteoporosis, malignancy, spinal instability.",
+        "instructions": [
+            "1. Identify the Type I segmental dysfunction.",
+            "2. Position the patient supine with arms crossed.",
+            "3. Localize the segment with flexion, sidebending, and rotation.",
+            "4. Apply a posterior HVLA thrust through the barrier.",
+            "5. Reassess segment motion and tenderness."
+        ]
+    },
+    {
+        "name": "Rib 1 - Muscle Energy (Inhalation) Copy 98",
+        "region": "Ribs",
+        "category": "Muscle Energy",
+        "indications": "Inhalation dysfunction of first rib, scalene hypertonicity.",
+        "contraindications": "Fracture of rib or clavicle, severe neck trauma.",
+        "instructions": [
+            "1. Position patient seated, operator behind.",
+            "2. Sidebend patient\u2019s head toward rib dysfunction.",
+            "3. Apply downward pressure on rib while patient inhales and resists.",
+            "4. Relax and reposition deeper on exhalation.",
+            "5. Repeat 3-5 times, reassess."
+        ]
+    },
+    {
+        "name": "Plantar Fascia Release - Myofascial Copy 99",
+        "region": "Foot",
+        "category": "Myofascial",
+        "indications": "Plantar fasciitis, foot pain, fascial restriction.",
+        "contraindications": "Open wounds, severe inflammation, recent surgery.",
+        "instructions": [
+            "1. Patient supine or seated.",
+            "2. Use thumbs to apply traction along the fascia from heel to toes.",
+            "3. Maintain tension and sweep slowly across foot.",
+            "4. Repeat until tissue softens or pain decreases."
+        ]
+    },
+    {
+        "name": "Lumbar - Counterstrain (Posterior L3) Copy 100",
+        "region": "Lumbar",
+        "category": "Strain Counterstrain",
+        "indications": "Tenderpoint at posterior L3 area, low back pain.",
+        "contraindications": "Fracture, spinal infection, patient intolerance to positioning.",
+        "instructions": [
+            "1. Locate the L3 tenderpoint 2/3 distance from ASIS to midline.",
+            "2. Patient prone, flex hips and knees to shorten area.",
+            "3. Add slight sidebending away from tenderpoint.",
+            "4. Hold for 90 seconds, maintaining light pressure.",
+            "5. Slowly return to neutral and reassess."
+        ]
+    }
+]

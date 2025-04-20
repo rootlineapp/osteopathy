@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Technique Suggestions</title>
+</head>
+<body>
+    <h1>Technique Suggestions for {{ patient.data.name }}</h1>
+
+    <ul>
+        {% for t in techniques %}
+            <li>{{ t.name }} <em>(from {{ t.assessment }})</em></li>
+        {% endfor %}
+    </ul>
+
+    <hr>
+
+    <h2>SOAP Note</h2>
+    <form method="POST" action="{{ url_for('save_soap_note', patient_id=patient.id) }}">
+        <textarea name="soap_note" rows="10" cols="60" placeholder="Write your SOAP note here..."></textarea><br><br>
+        <input type="submit" value="Save Note & View Summary">
+    </form>
+</body>
+</html>
+

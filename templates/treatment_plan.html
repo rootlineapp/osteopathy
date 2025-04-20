@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}Treatment Plan{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+  <h2 class="mb-4">Treatment Plan</h2>
+
+  {% if findings %}
+  <div class="mb-4">
+    <h4>GOT Findings:</h4>
+    <ul class="list-group">
+      {% for finding in findings %}
+      <li class="list-group-item">{{ finding }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+
+  {% if techniques %}
+  <div class="mb-4">
+    <h4>Suggested Techniques:</h4>
+    <ul class="list-group">
+      {% for technique in techniques %}
+      <li class="list-group-item">{{ technique }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% else %}
+  <p class="text-muted">No techniques suggested yet. Submit findings from the GOT screen.</p>
+  {% endif %}
+</div>
+{% endblock %}
+

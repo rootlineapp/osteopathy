@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>PDF Visit Summary</title>
+    <style>
+        body { font-family: Helvetica, sans-serif; font-size: 12px; }
+        h1, h2, h3 { border-bottom: 1px solid #999; padding-bottom: 4px; }
+        .section { margin-bottom: 20px; }
+        img { max-width: 300px; margin-bottom: 10px; border: 1px solid #ccc; }
+        ul { padding-left: 18px; }
+    </style>
+</head>
+<body>
+
+    <h1>SOAP Visit Summary</h1>
+
+    <div class="section">
+        <strong>Name:</strong> {{ patient.data.name }}<br>
+        <strong>Date:</strong> {{ patient.data.date }}<br>
+        <strong>Chief Complaints:</strong> {{ patient.data.complaints | join(', ') }}
+    </div>
+
+    <div class="section">
+        <h2>S - Subjective</h2>
+        <p>Patient reports: {{ patient.data.complaints | join(', ') }}</p>
+    </div>
+
+    <div class="section">
+        <h2>O - Objective Findings</h2>
+        {% if findings %}
+            <ul>
+            {% for assessment, result in findings.items() %}
+                <li><strong>{{ assessment }}:</strong> {{ result }}</li>
+            {% endfor %}
+            </ul>
+        {% else %}
+            <p>No assessment findings recorded.</p>
+        {% endif %}
+
+        {% if drawings %}
+            <h3>Diagrams</h3>
+            {% for d in drawings %}
+                <p><strong>{{ d.assessment }}</strong></p>
+                <img src="{{ url_for('static', filename='uploads/' ~ d.drawing_file) }}">
+            {% endfor %}
+        {% endif %}
+    </div>
+
+    <div class="section">
+        <h2>A - Assessment</h2>
+        {% if findings %}
+            <p>Somatic dysfunctions identified based on assessment and palpatory findings.</p>
+        {% else %}
+            <p>No dysfunctions recorded.</p>
+        {% endif %}
+    </div>
+
+    <div class="section">
+        <h2>P - Plan (Techniques Suggested)</h2>
+        {% if techniques %}
+            <ul>
+            {% for assessment, technique in techniques.items() %}
+                <li><strong>{{ assessment }}:</strong> {{ technique }}</li>
+            {% endfor %}
+            </ul>
+        {% else %}
+            <p>No treatment techniques suggested.</p>
+        {% endif %}
+    </div>
+
+</body>
+</html>
+

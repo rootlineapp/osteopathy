@@ -1,0 +1,116 @@
+{% extends "base.html" %}
+{% block title %}Weekly Schedule{% endblock %}
+
+{% block content %}
+<h2 class="mb-4">Weekly Schedule</h2>
+
+<div id="calendar-container" class="mb-4">
+    <table class="table table-bordered text-center">
+        <thead class="table-light">
+            <tr>
+                <th>Time</th>
+                <th>Monday</th>
+                <th>Tuesday</th>
+                <th>Wednesday</th>
+                <th>Thursday</th>
+                <th>Friday</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for hour in range(8, 21) %}
+                <tr>
+                    <th>{{ "%02d:00"|format(hour) }}</th>
+                    {% for day in ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'] %}
+                        <td class="calendar-cell" data-day="{{ day }}" data-hour="{{ hour }}"></td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<!-- Appointments Rendered -->
+<script>
+    const appointments = {{ appointments|tojson }};
+    const patients = {{ patients|tojson }};
+
+    appointments.forEach(apt => {
+        const date = new Date(apt.date);
+        const options = { weekday: 'long' };
+        const day = date.toLocaleDateString('en-US', options);
+        const hour = parseInt(apt.time.split(':')[0]);
+        const selector = `[data-day="${day}"][data-hour="${hour}"]`;
+        const cell = document.querySelector(selector);
+
+        if (cell) {
+            const div = document.createElement('div');
+            div.className = 'bg-success text-white rounded px-1 small';
+            div.innerHTML = `
+                ${patients[apt.patient_id]?.first_name || "Unknown"}<br>
+                ${apt.time} (${apt.duration}m)
+            `;
+            cell.appendChild(div);
+        }
+    });
+</script>
+
+<!-- Book Appointment Button -->
+<button class="btn btn-success mt-4" data-bs-toggle="modal" data-bs-target="#appointmentModal">+ Book Appointment</button>
+
+<!-- Appointment Modal -->
+<div class="modal fade" id="appointmentModal" tabindex="-1" aria-labelledby="appointmentModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <form method="POST" class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Book Appointment</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+      </div>
+      <div class="modal-body">
+        <label>Patient:</label>
+        <select name="patient_id" class="form-select" required>
+          {% for p in patient_choices %}
+            <option value="{{ p.id }}">{{ p.name }}</option>
+          {% endfor %}
+        </select>
+
+        <label class="mt-2">Date:</label>
+        <input type="date" name="date" class="form-control" required>
+
+        <label class="mt-2">Time:</label>
+        <input type="time" name="time" class="form-control" required>
+
+        <label class="mt-2">Duration:</label>
+        <select name="duration" class="form-select">
+          <option value="30">30 min</option>
+          <option value="45">45 min</option>
+          <option value="60">1 hour</option>
+        </select>
+
+        <label class="mt-2">Notes:</label>
+        <textarea name="notes" class="form-control" rows="2"></textarea>
+      </div>
+      <div class="modal-footer">
+        <button type="submit" class="btn btn-primary">Save Appointment</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+<style>
+    .calendar-cell {
+        height: 60px;
+        vertical-align: top;
+        cursor: pointer;
+        background-color: #fdfdf8;
+    }
+
+    .calendar-cell:hover {
+        background-color: #eefbe6;
+    }
+
+    .calendar-cell .bg-success {
+        font-size: 0.75rem;
+    }
+</style>
+{% endblock %}
+

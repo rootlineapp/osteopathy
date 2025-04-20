@@ -1,0 +1,1302 @@
+[
+    {
+        "name": "Technique 1",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 1.",
+        "contraindications": "Contraindication text for Technique 1.",
+        "instructions": [
+            "Step 1 for Technique 1.",
+            "Step 2 for Technique 1.",
+            "Step 3 for Technique 1.",
+            "Step 4 for Technique 1."
+        ]
+    },
+    {
+        "name": "Technique 2",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 2.",
+        "contraindications": "Contraindication text for Technique 2.",
+        "instructions": [
+            "Step 1 for Technique 2.",
+            "Step 2 for Technique 2.",
+            "Step 3 for Technique 2.",
+            "Step 4 for Technique 2."
+        ]
+    },
+    {
+        "name": "Technique 3",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 3.",
+        "contraindications": "Contraindication text for Technique 3.",
+        "instructions": [
+            "Step 1 for Technique 3.",
+            "Step 2 for Technique 3.",
+            "Step 3 for Technique 3.",
+            "Step 4 for Technique 3."
+        ]
+    },
+    {
+        "name": "Technique 4",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 4.",
+        "contraindications": "Contraindication text for Technique 4.",
+        "instructions": [
+            "Step 1 for Technique 4.",
+            "Step 2 for Technique 4.",
+            "Step 3 for Technique 4.",
+            "Step 4 for Technique 4."
+        ]
+    },
+    {
+        "name": "Technique 5",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 5.",
+        "contraindications": "Contraindication text for Technique 5.",
+        "instructions": [
+            "Step 1 for Technique 5.",
+            "Step 2 for Technique 5.",
+            "Step 3 for Technique 5.",
+            "Step 4 for Technique 5."
+        ]
+    },
+    {
+        "name": "Technique 6",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 6.",
+        "contraindications": "Contraindication text for Technique 6.",
+        "instructions": [
+            "Step 1 for Technique 6.",
+            "Step 2 for Technique 6.",
+            "Step 3 for Technique 6.",
+            "Step 4 for Technique 6."
+        ]
+    },
+    {
+        "name": "Technique 7",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 7.",
+        "contraindications": "Contraindication text for Technique 7.",
+        "instructions": [
+            "Step 1 for Technique 7.",
+            "Step 2 for Technique 7.",
+            "Step 3 for Technique 7.",
+            "Step 4 for Technique 7."
+        ]
+    },
+    {
+        "name": "Technique 8",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 8.",
+        "contraindications": "Contraindication text for Technique 8.",
+        "instructions": [
+            "Step 1 for Technique 8.",
+            "Step 2 for Technique 8.",
+            "Step 3 for Technique 8.",
+            "Step 4 for Technique 8."
+        ]
+    },
+    {
+        "name": "Technique 9",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 9.",
+        "contraindications": "Contraindication text for Technique 9.",
+        "instructions": [
+            "Step 1 for Technique 9.",
+            "Step 2 for Technique 9.",
+            "Step 3 for Technique 9.",
+            "Step 4 for Technique 9."
+        ]
+    },
+    {
+        "name": "Technique 10",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 10.",
+        "contraindications": "Contraindication text for Technique 10.",
+        "instructions": [
+            "Step 1 for Technique 10.",
+            "Step 2 for Technique 10.",
+            "Step 3 for Technique 10.",
+            "Step 4 for Technique 10."
+        ]
+    },
+    {
+        "name": "Technique 11",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 11.",
+        "contraindications": "Contraindication text for Technique 11.",
+        "instructions": [
+            "Step 1 for Technique 11.",
+            "Step 2 for Technique 11.",
+            "Step 3 for Technique 11.",
+            "Step 4 for Technique 11."
+        ]
+    },
+    {
+        "name": "Technique 12",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 12.",
+        "contraindications": "Contraindication text for Technique 12.",
+        "instructions": [
+            "Step 1 for Technique 12.",
+            "Step 2 for Technique 12.",
+            "Step 3 for Technique 12.",
+            "Step 4 for Technique 12."
+        ]
+    },
+    {
+        "name": "Technique 13",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 13.",
+        "contraindications": "Contraindication text for Technique 13.",
+        "instructions": [
+            "Step 1 for Technique 13.",
+            "Step 2 for Technique 13.",
+            "Step 3 for Technique 13.",
+            "Step 4 for Technique 13."
+        ]
+    },
+    {
+        "name": "Technique 14",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 14.",
+        "contraindications": "Contraindication text for Technique 14.",
+        "instructions": [
+            "Step 1 for Technique 14.",
+            "Step 2 for Technique 14.",
+            "Step 3 for Technique 14.",
+            "Step 4 for Technique 14."
+        ]
+    },
+    {
+        "name": "Technique 15",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 15.",
+        "contraindications": "Contraindication text for Technique 15.",
+        "instructions": [
+            "Step 1 for Technique 15.",
+            "Step 2 for Technique 15.",
+            "Step 3 for Technique 15.",
+            "Step 4 for Technique 15."
+        ]
+    },
+    {
+        "name": "Technique 16",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 16.",
+        "contraindications": "Contraindication text for Technique 16.",
+        "instructions": [
+            "Step 1 for Technique 16.",
+            "Step 2 for Technique 16.",
+            "Step 3 for Technique 16.",
+            "Step 4 for Technique 16."
+        ]
+    },
+    {
+        "name": "Technique 17",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 17.",
+        "contraindications": "Contraindication text for Technique 17.",
+        "instructions": [
+            "Step 1 for Technique 17.",
+            "Step 2 for Technique 17.",
+            "Step 3 for Technique 17.",
+            "Step 4 for Technique 17."
+        ]
+    },
+    {
+        "name": "Technique 18",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 18.",
+        "contraindications": "Contraindication text for Technique 18.",
+        "instructions": [
+            "Step 1 for Technique 18.",
+            "Step 2 for Technique 18.",
+            "Step 3 for Technique 18.",
+            "Step 4 for Technique 18."
+        ]
+    },
+    {
+        "name": "Technique 19",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 19.",
+        "contraindications": "Contraindication text for Technique 19.",
+        "instructions": [
+            "Step 1 for Technique 19.",
+            "Step 2 for Technique 19.",
+            "Step 3 for Technique 19.",
+            "Step 4 for Technique 19."
+        ]
+    },
+    {
+        "name": "Technique 20",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 20.",
+        "contraindications": "Contraindication text for Technique 20.",
+        "instructions": [
+            "Step 1 for Technique 20.",
+            "Step 2 for Technique 20.",
+            "Step 3 for Technique 20.",
+            "Step 4 for Technique 20."
+        ]
+    },
+    {
+        "name": "Technique 21",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 21.",
+        "contraindications": "Contraindication text for Technique 21.",
+        "instructions": [
+            "Step 1 for Technique 21.",
+            "Step 2 for Technique 21.",
+            "Step 3 for Technique 21.",
+            "Step 4 for Technique 21."
+        ]
+    },
+    {
+        "name": "Technique 22",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 22.",
+        "contraindications": "Contraindication text for Technique 22.",
+        "instructions": [
+            "Step 1 for Technique 22.",
+            "Step 2 for Technique 22.",
+            "Step 3 for Technique 22.",
+            "Step 4 for Technique 22."
+        ]
+    },
+    {
+        "name": "Technique 23",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 23.",
+        "contraindications": "Contraindication text for Technique 23.",
+        "instructions": [
+            "Step 1 for Technique 23.",
+            "Step 2 for Technique 23.",
+            "Step 3 for Technique 23.",
+            "Step 4 for Technique 23."
+        ]
+    },
+    {
+        "name": "Technique 24",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 24.",
+        "contraindications": "Contraindication text for Technique 24.",
+        "instructions": [
+            "Step 1 for Technique 24.",
+            "Step 2 for Technique 24.",
+            "Step 3 for Technique 24.",
+            "Step 4 for Technique 24."
+        ]
+    },
+    {
+        "name": "Technique 25",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 25.",
+        "contraindications": "Contraindication text for Technique 25.",
+        "instructions": [
+            "Step 1 for Technique 25.",
+            "Step 2 for Technique 25.",
+            "Step 3 for Technique 25.",
+            "Step 4 for Technique 25."
+        ]
+    },
+    {
+        "name": "Technique 26",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 26.",
+        "contraindications": "Contraindication text for Technique 26.",
+        "instructions": [
+            "Step 1 for Technique 26.",
+            "Step 2 for Technique 26.",
+            "Step 3 for Technique 26.",
+            "Step 4 for Technique 26."
+        ]
+    },
+    {
+        "name": "Technique 27",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 27.",
+        "contraindications": "Contraindication text for Technique 27.",
+        "instructions": [
+            "Step 1 for Technique 27.",
+            "Step 2 for Technique 27.",
+            "Step 3 for Technique 27.",
+            "Step 4 for Technique 27."
+        ]
+    },
+    {
+        "name": "Technique 28",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 28.",
+        "contraindications": "Contraindication text for Technique 28.",
+        "instructions": [
+            "Step 1 for Technique 28.",
+            "Step 2 for Technique 28.",
+            "Step 3 for Technique 28.",
+            "Step 4 for Technique 28."
+        ]
+    },
+    {
+        "name": "Technique 29",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 29.",
+        "contraindications": "Contraindication text for Technique 29.",
+        "instructions": [
+            "Step 1 for Technique 29.",
+            "Step 2 for Technique 29.",
+            "Step 3 for Technique 29.",
+            "Step 4 for Technique 29."
+        ]
+    },
+    {
+        "name": "Technique 30",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 30.",
+        "contraindications": "Contraindication text for Technique 30.",
+        "instructions": [
+            "Step 1 for Technique 30.",
+            "Step 2 for Technique 30.",
+            "Step 3 for Technique 30.",
+            "Step 4 for Technique 30."
+        ]
+    },
+    {
+        "name": "Technique 31",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 31.",
+        "contraindications": "Contraindication text for Technique 31.",
+        "instructions": [
+            "Step 1 for Technique 31.",
+            "Step 2 for Technique 31.",
+            "Step 3 for Technique 31.",
+            "Step 4 for Technique 31."
+        ]
+    },
+    {
+        "name": "Technique 32",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 32.",
+        "contraindications": "Contraindication text for Technique 32.",
+        "instructions": [
+            "Step 1 for Technique 32.",
+            "Step 2 for Technique 32.",
+            "Step 3 for Technique 32.",
+            "Step 4 for Technique 32."
+        ]
+    },
+    {
+        "name": "Technique 33",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 33.",
+        "contraindications": "Contraindication text for Technique 33.",
+        "instructions": [
+            "Step 1 for Technique 33.",
+            "Step 2 for Technique 33.",
+            "Step 3 for Technique 33.",
+            "Step 4 for Technique 33."
+        ]
+    },
+    {
+        "name": "Technique 34",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 34.",
+        "contraindications": "Contraindication text for Technique 34.",
+        "instructions": [
+            "Step 1 for Technique 34.",
+            "Step 2 for Technique 34.",
+            "Step 3 for Technique 34.",
+            "Step 4 for Technique 34."
+        ]
+    },
+    {
+        "name": "Technique 35",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 35.",
+        "contraindications": "Contraindication text for Technique 35.",
+        "instructions": [
+            "Step 1 for Technique 35.",
+            "Step 2 for Technique 35.",
+            "Step 3 for Technique 35.",
+            "Step 4 for Technique 35."
+        ]
+    },
+    {
+        "name": "Technique 36",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 36.",
+        "contraindications": "Contraindication text for Technique 36.",
+        "instructions": [
+            "Step 1 for Technique 36.",
+            "Step 2 for Technique 36.",
+            "Step 3 for Technique 36.",
+            "Step 4 for Technique 36."
+        ]
+    },
+    {
+        "name": "Technique 37",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 37.",
+        "contraindications": "Contraindication text for Technique 37.",
+        "instructions": [
+            "Step 1 for Technique 37.",
+            "Step 2 for Technique 37.",
+            "Step 3 for Technique 37.",
+            "Step 4 for Technique 37."
+        ]
+    },
+    {
+        "name": "Technique 38",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 38.",
+        "contraindications": "Contraindication text for Technique 38.",
+        "instructions": [
+            "Step 1 for Technique 38.",
+            "Step 2 for Technique 38.",
+            "Step 3 for Technique 38.",
+            "Step 4 for Technique 38."
+        ]
+    },
+    {
+        "name": "Technique 39",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 39.",
+        "contraindications": "Contraindication text for Technique 39.",
+        "instructions": [
+            "Step 1 for Technique 39.",
+            "Step 2 for Technique 39.",
+            "Step 3 for Technique 39.",
+            "Step 4 for Technique 39."
+        ]
+    },
+    {
+        "name": "Technique 40",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 40.",
+        "contraindications": "Contraindication text for Technique 40.",
+        "instructions": [
+            "Step 1 for Technique 40.",
+            "Step 2 for Technique 40.",
+            "Step 3 for Technique 40.",
+            "Step 4 for Technique 40."
+        ]
+    },
+    {
+        "name": "Technique 41",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 41.",
+        "contraindications": "Contraindication text for Technique 41.",
+        "instructions": [
+            "Step 1 for Technique 41.",
+            "Step 2 for Technique 41.",
+            "Step 3 for Technique 41.",
+            "Step 4 for Technique 41."
+        ]
+    },
+    {
+        "name": "Technique 42",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 42.",
+        "contraindications": "Contraindication text for Technique 42.",
+        "instructions": [
+            "Step 1 for Technique 42.",
+            "Step 2 for Technique 42.",
+            "Step 3 for Technique 42.",
+            "Step 4 for Technique 42."
+        ]
+    },
+    {
+        "name": "Technique 43",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 43.",
+        "contraindications": "Contraindication text for Technique 43.",
+        "instructions": [
+            "Step 1 for Technique 43.",
+            "Step 2 for Technique 43.",
+            "Step 3 for Technique 43.",
+            "Step 4 for Technique 43."
+        ]
+    },
+    {
+        "name": "Technique 44",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 44.",
+        "contraindications": "Contraindication text for Technique 44.",
+        "instructions": [
+            "Step 1 for Technique 44.",
+            "Step 2 for Technique 44.",
+            "Step 3 for Technique 44.",
+            "Step 4 for Technique 44."
+        ]
+    },
+    {
+        "name": "Technique 45",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 45.",
+        "contraindications": "Contraindication text for Technique 45.",
+        "instructions": [
+            "Step 1 for Technique 45.",
+            "Step 2 for Technique 45.",
+            "Step 3 for Technique 45.",
+            "Step 4 for Technique 45."
+        ]
+    },
+    {
+        "name": "Technique 46",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 46.",
+        "contraindications": "Contraindication text for Technique 46.",
+        "instructions": [
+            "Step 1 for Technique 46.",
+            "Step 2 for Technique 46.",
+            "Step 3 for Technique 46.",
+            "Step 4 for Technique 46."
+        ]
+    },
+    {
+        "name": "Technique 47",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 47.",
+        "contraindications": "Contraindication text for Technique 47.",
+        "instructions": [
+            "Step 1 for Technique 47.",
+            "Step 2 for Technique 47.",
+            "Step 3 for Technique 47.",
+            "Step 4 for Technique 47."
+        ]
+    },
+    {
+        "name": "Technique 48",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 48.",
+        "contraindications": "Contraindication text for Technique 48.",
+        "instructions": [
+            "Step 1 for Technique 48.",
+            "Step 2 for Technique 48.",
+            "Step 3 for Technique 48.",
+            "Step 4 for Technique 48."
+        ]
+    },
+    {
+        "name": "Technique 49",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 49.",
+        "contraindications": "Contraindication text for Technique 49.",
+        "instructions": [
+            "Step 1 for Technique 49.",
+            "Step 2 for Technique 49.",
+            "Step 3 for Technique 49.",
+            "Step 4 for Technique 49."
+        ]
+    },
+    {
+        "name": "Technique 50",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 50.",
+        "contraindications": "Contraindication text for Technique 50.",
+        "instructions": [
+            "Step 1 for Technique 50.",
+            "Step 2 for Technique 50.",
+            "Step 3 for Technique 50.",
+            "Step 4 for Technique 50."
+        ]
+    },
+    {
+        "name": "Technique 51",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 51.",
+        "contraindications": "Contraindication text for Technique 51.",
+        "instructions": [
+            "Step 1 for Technique 51.",
+            "Step 2 for Technique 51.",
+            "Step 3 for Technique 51.",
+            "Step 4 for Technique 51."
+        ]
+    },
+    {
+        "name": "Technique 52",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 52.",
+        "contraindications": "Contraindication text for Technique 52.",
+        "instructions": [
+            "Step 1 for Technique 52.",
+            "Step 2 for Technique 52.",
+            "Step 3 for Technique 52.",
+            "Step 4 for Technique 52."
+        ]
+    },
+    {
+        "name": "Technique 53",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 53.",
+        "contraindications": "Contraindication text for Technique 53.",
+        "instructions": [
+            "Step 1 for Technique 53.",
+            "Step 2 for Technique 53.",
+            "Step 3 for Technique 53.",
+            "Step 4 for Technique 53."
+        ]
+    },
+    {
+        "name": "Technique 54",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 54.",
+        "contraindications": "Contraindication text for Technique 54.",
+        "instructions": [
+            "Step 1 for Technique 54.",
+            "Step 2 for Technique 54.",
+            "Step 3 for Technique 54.",
+            "Step 4 for Technique 54."
+        ]
+    },
+    {
+        "name": "Technique 55",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 55.",
+        "contraindications": "Contraindication text for Technique 55.",
+        "instructions": [
+            "Step 1 for Technique 55.",
+            "Step 2 for Technique 55.",
+            "Step 3 for Technique 55.",
+            "Step 4 for Technique 55."
+        ]
+    },
+    {
+        "name": "Technique 56",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 56.",
+        "contraindications": "Contraindication text for Technique 56.",
+        "instructions": [
+            "Step 1 for Technique 56.",
+            "Step 2 for Technique 56.",
+            "Step 3 for Technique 56.",
+            "Step 4 for Technique 56."
+        ]
+    },
+    {
+        "name": "Technique 57",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 57.",
+        "contraindications": "Contraindication text for Technique 57.",
+        "instructions": [
+            "Step 1 for Technique 57.",
+            "Step 2 for Technique 57.",
+            "Step 3 for Technique 57.",
+            "Step 4 for Technique 57."
+        ]
+    },
+    {
+        "name": "Technique 58",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 58.",
+        "contraindications": "Contraindication text for Technique 58.",
+        "instructions": [
+            "Step 1 for Technique 58.",
+            "Step 2 for Technique 58.",
+            "Step 3 for Technique 58.",
+            "Step 4 for Technique 58."
+        ]
+    },
+    {
+        "name": "Technique 59",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 59.",
+        "contraindications": "Contraindication text for Technique 59.",
+        "instructions": [
+            "Step 1 for Technique 59.",
+            "Step 2 for Technique 59.",
+            "Step 3 for Technique 59.",
+            "Step 4 for Technique 59."
+        ]
+    },
+    {
+        "name": "Technique 60",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 60.",
+        "contraindications": "Contraindication text for Technique 60.",
+        "instructions": [
+            "Step 1 for Technique 60.",
+            "Step 2 for Technique 60.",
+            "Step 3 for Technique 60.",
+            "Step 4 for Technique 60."
+        ]
+    },
+    {
+        "name": "Technique 61",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 61.",
+        "contraindications": "Contraindication text for Technique 61.",
+        "instructions": [
+            "Step 1 for Technique 61.",
+            "Step 2 for Technique 61.",
+            "Step 3 for Technique 61.",
+            "Step 4 for Technique 61."
+        ]
+    },
+    {
+        "name": "Technique 62",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 62.",
+        "contraindications": "Contraindication text for Technique 62.",
+        "instructions": [
+            "Step 1 for Technique 62.",
+            "Step 2 for Technique 62.",
+            "Step 3 for Technique 62.",
+            "Step 4 for Technique 62."
+        ]
+    },
+    {
+        "name": "Technique 63",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 63.",
+        "contraindications": "Contraindication text for Technique 63.",
+        "instructions": [
+            "Step 1 for Technique 63.",
+            "Step 2 for Technique 63.",
+            "Step 3 for Technique 63.",
+            "Step 4 for Technique 63."
+        ]
+    },
+    {
+        "name": "Technique 64",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 64.",
+        "contraindications": "Contraindication text for Technique 64.",
+        "instructions": [
+            "Step 1 for Technique 64.",
+            "Step 2 for Technique 64.",
+            "Step 3 for Technique 64.",
+            "Step 4 for Technique 64."
+        ]
+    },
+    {
+        "name": "Technique 65",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 65.",
+        "contraindications": "Contraindication text for Technique 65.",
+        "instructions": [
+            "Step 1 for Technique 65.",
+            "Step 2 for Technique 65.",
+            "Step 3 for Technique 65.",
+            "Step 4 for Technique 65."
+        ]
+    },
+    {
+        "name": "Technique 66",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 66.",
+        "contraindications": "Contraindication text for Technique 66.",
+        "instructions": [
+            "Step 1 for Technique 66.",
+            "Step 2 for Technique 66.",
+            "Step 3 for Technique 66.",
+            "Step 4 for Technique 66."
+        ]
+    },
+    {
+        "name": "Technique 67",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 67.",
+        "contraindications": "Contraindication text for Technique 67.",
+        "instructions": [
+            "Step 1 for Technique 67.",
+            "Step 2 for Technique 67.",
+            "Step 3 for Technique 67.",
+            "Step 4 for Technique 67."
+        ]
+    },
+    {
+        "name": "Technique 68",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 68.",
+        "contraindications": "Contraindication text for Technique 68.",
+        "instructions": [
+            "Step 1 for Technique 68.",
+            "Step 2 for Technique 68.",
+            "Step 3 for Technique 68.",
+            "Step 4 for Technique 68."
+        ]
+    },
+    {
+        "name": "Technique 69",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 69.",
+        "contraindications": "Contraindication text for Technique 69.",
+        "instructions": [
+            "Step 1 for Technique 69.",
+            "Step 2 for Technique 69.",
+            "Step 3 for Technique 69.",
+            "Step 4 for Technique 69."
+        ]
+    },
+    {
+        "name": "Technique 70",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 70.",
+        "contraindications": "Contraindication text for Technique 70.",
+        "instructions": [
+            "Step 1 for Technique 70.",
+            "Step 2 for Technique 70.",
+            "Step 3 for Technique 70.",
+            "Step 4 for Technique 70."
+        ]
+    },
+    {
+        "name": "Technique 71",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 71.",
+        "contraindications": "Contraindication text for Technique 71.",
+        "instructions": [
+            "Step 1 for Technique 71.",
+            "Step 2 for Technique 71.",
+            "Step 3 for Technique 71.",
+            "Step 4 for Technique 71."
+        ]
+    },
+    {
+        "name": "Technique 72",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 72.",
+        "contraindications": "Contraindication text for Technique 72.",
+        "instructions": [
+            "Step 1 for Technique 72.",
+            "Step 2 for Technique 72.",
+            "Step 3 for Technique 72.",
+            "Step 4 for Technique 72."
+        ]
+    },
+    {
+        "name": "Technique 73",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 73.",
+        "contraindications": "Contraindication text for Technique 73.",
+        "instructions": [
+            "Step 1 for Technique 73.",
+            "Step 2 for Technique 73.",
+            "Step 3 for Technique 73.",
+            "Step 4 for Technique 73."
+        ]
+    },
+    {
+        "name": "Technique 74",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 74.",
+        "contraindications": "Contraindication text for Technique 74.",
+        "instructions": [
+            "Step 1 for Technique 74.",
+            "Step 2 for Technique 74.",
+            "Step 3 for Technique 74.",
+            "Step 4 for Technique 74."
+        ]
+    },
+    {
+        "name": "Technique 75",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 75.",
+        "contraindications": "Contraindication text for Technique 75.",
+        "instructions": [
+            "Step 1 for Technique 75.",
+            "Step 2 for Technique 75.",
+            "Step 3 for Technique 75.",
+            "Step 4 for Technique 75."
+        ]
+    },
+    {
+        "name": "Technique 76",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 76.",
+        "contraindications": "Contraindication text for Technique 76.",
+        "instructions": [
+            "Step 1 for Technique 76.",
+            "Step 2 for Technique 76.",
+            "Step 3 for Technique 76.",
+            "Step 4 for Technique 76."
+        ]
+    },
+    {
+        "name": "Technique 77",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 77.",
+        "contraindications": "Contraindication text for Technique 77.",
+        "instructions": [
+            "Step 1 for Technique 77.",
+            "Step 2 for Technique 77.",
+            "Step 3 for Technique 77.",
+            "Step 4 for Technique 77."
+        ]
+    },
+    {
+        "name": "Technique 78",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 78.",
+        "contraindications": "Contraindication text for Technique 78.",
+        "instructions": [
+            "Step 1 for Technique 78.",
+            "Step 2 for Technique 78.",
+            "Step 3 for Technique 78.",
+            "Step 4 for Technique 78."
+        ]
+    },
+    {
+        "name": "Technique 79",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 79.",
+        "contraindications": "Contraindication text for Technique 79.",
+        "instructions": [
+            "Step 1 for Technique 79.",
+            "Step 2 for Technique 79.",
+            "Step 3 for Technique 79.",
+            "Step 4 for Technique 79."
+        ]
+    },
+    {
+        "name": "Technique 80",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 80.",
+        "contraindications": "Contraindication text for Technique 80.",
+        "instructions": [
+            "Step 1 for Technique 80.",
+            "Step 2 for Technique 80.",
+            "Step 3 for Technique 80.",
+            "Step 4 for Technique 80."
+        ]
+    },
+    {
+        "name": "Technique 81",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 81.",
+        "contraindications": "Contraindication text for Technique 81.",
+        "instructions": [
+            "Step 1 for Technique 81.",
+            "Step 2 for Technique 81.",
+            "Step 3 for Technique 81.",
+            "Step 4 for Technique 81."
+        ]
+    },
+    {
+        "name": "Technique 82",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 82.",
+        "contraindications": "Contraindication text for Technique 82.",
+        "instructions": [
+            "Step 1 for Technique 82.",
+            "Step 2 for Technique 82.",
+            "Step 3 for Technique 82.",
+            "Step 4 for Technique 82."
+        ]
+    },
+    {
+        "name": "Technique 83",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 83.",
+        "contraindications": "Contraindication text for Technique 83.",
+        "instructions": [
+            "Step 1 for Technique 83.",
+            "Step 2 for Technique 83.",
+            "Step 3 for Technique 83.",
+            "Step 4 for Technique 83."
+        ]
+    },
+    {
+        "name": "Technique 84",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 84.",
+        "contraindications": "Contraindication text for Technique 84.",
+        "instructions": [
+            "Step 1 for Technique 84.",
+            "Step 2 for Technique 84.",
+            "Step 3 for Technique 84.",
+            "Step 4 for Technique 84."
+        ]
+    },
+    {
+        "name": "Technique 85",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 85.",
+        "contraindications": "Contraindication text for Technique 85.",
+        "instructions": [
+            "Step 1 for Technique 85.",
+            "Step 2 for Technique 85.",
+            "Step 3 for Technique 85.",
+            "Step 4 for Technique 85."
+        ]
+    },
+    {
+        "name": "Technique 86",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 86.",
+        "contraindications": "Contraindication text for Technique 86.",
+        "instructions": [
+            "Step 1 for Technique 86.",
+            "Step 2 for Technique 86.",
+            "Step 3 for Technique 86.",
+            "Step 4 for Technique 86."
+        ]
+    },
+    {
+        "name": "Technique 87",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 87.",
+        "contraindications": "Contraindication text for Technique 87.",
+        "instructions": [
+            "Step 1 for Technique 87.",
+            "Step 2 for Technique 87.",
+            "Step 3 for Technique 87.",
+            "Step 4 for Technique 87."
+        ]
+    },
+    {
+        "name": "Technique 88",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 88.",
+        "contraindications": "Contraindication text for Technique 88.",
+        "instructions": [
+            "Step 1 for Technique 88.",
+            "Step 2 for Technique 88.",
+            "Step 3 for Technique 88.",
+            "Step 4 for Technique 88."
+        ]
+    },
+    {
+        "name": "Technique 89",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 89.",
+        "contraindications": "Contraindication text for Technique 89.",
+        "instructions": [
+            "Step 1 for Technique 89.",
+            "Step 2 for Technique 89.",
+            "Step 3 for Technique 89.",
+            "Step 4 for Technique 89."
+        ]
+    },
+    {
+        "name": "Technique 90",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 90.",
+        "contraindications": "Contraindication text for Technique 90.",
+        "instructions": [
+            "Step 1 for Technique 90.",
+            "Step 2 for Technique 90.",
+            "Step 3 for Technique 90.",
+            "Step 4 for Technique 90."
+        ]
+    },
+    {
+        "name": "Technique 91",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 91.",
+        "contraindications": "Contraindication text for Technique 91.",
+        "instructions": [
+            "Step 1 for Technique 91.",
+            "Step 2 for Technique 91.",
+            "Step 3 for Technique 91.",
+            "Step 4 for Technique 91."
+        ]
+    },
+    {
+        "name": "Technique 92",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 92.",
+        "contraindications": "Contraindication text for Technique 92.",
+        "instructions": [
+            "Step 1 for Technique 92.",
+            "Step 2 for Technique 92.",
+            "Step 3 for Technique 92.",
+            "Step 4 for Technique 92."
+        ]
+    },
+    {
+        "name": "Technique 93",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 93.",
+        "contraindications": "Contraindication text for Technique 93.",
+        "instructions": [
+            "Step 1 for Technique 93.",
+            "Step 2 for Technique 93.",
+            "Step 3 for Technique 93.",
+            "Step 4 for Technique 93."
+        ]
+    },
+    {
+        "name": "Technique 94",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 94.",
+        "contraindications": "Contraindication text for Technique 94.",
+        "instructions": [
+            "Step 1 for Technique 94.",
+            "Step 2 for Technique 94.",
+            "Step 3 for Technique 94.",
+            "Step 4 for Technique 94."
+        ]
+    },
+    {
+        "name": "Technique 95",
+        "region": "Cervical",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 95.",
+        "contraindications": "Contraindication text for Technique 95.",
+        "instructions": [
+            "Step 1 for Technique 95.",
+            "Step 2 for Technique 95.",
+            "Step 3 for Technique 95.",
+            "Step 4 for Technique 95."
+        ]
+    },
+    {
+        "name": "Technique 96",
+        "region": "Lumbar",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 96.",
+        "contraindications": "Contraindication text for Technique 96.",
+        "instructions": [
+            "Step 1 for Technique 96.",
+            "Step 2 for Technique 96.",
+            "Step 3 for Technique 96.",
+            "Step 4 for Technique 96."
+        ]
+    },
+    {
+        "name": "Technique 97",
+        "region": "Thoracic",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 97.",
+        "contraindications": "Contraindication text for Technique 97.",
+        "instructions": [
+            "Step 1 for Technique 97.",
+            "Step 2 for Technique 97.",
+            "Step 3 for Technique 97.",
+            "Step 4 for Technique 97."
+        ]
+    },
+    {
+        "name": "Technique 98",
+        "region": "Cervical",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 98.",
+        "contraindications": "Contraindication text for Technique 98.",
+        "instructions": [
+            "Step 1 for Technique 98.",
+            "Step 2 for Technique 98.",
+            "Step 3 for Technique 98.",
+            "Step 4 for Technique 98."
+        ]
+    },
+    {
+        "name": "Technique 99",
+        "region": "Lumbar",
+        "category": "HVLA",
+        "indications": "Indication text for Technique 99.",
+        "contraindications": "Contraindication text for Technique 99.",
+        "instructions": [
+            "Step 1 for Technique 99.",
+            "Step 2 for Technique 99.",
+            "Step 3 for Technique 99.",
+            "Step 4 for Technique 99."
+        ]
+    },
+    {
+        "name": "Technique 100",
+        "region": "Thoracic",
+        "category": "Muscle Energy",
+        "indications": "Indication text for Technique 100.",
+        "contraindications": "Contraindication text for Technique 100.",
+        "instructions": [
+            "Step 1 for Technique 100.",
+            "Step 2 for Technique 100.",
+            "Step 3 for Technique 100.",
+            "Step 4 for Technique 100."
+        ]
+    }
+]

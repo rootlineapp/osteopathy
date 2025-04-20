@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %}GOT Assessment - Rootline{% endblock %}
+{% block content %}
+
+<h2 class="mb-4">Global Osteopathic Treatment (GOT) Sequence</h2>
+
+<p class="text-muted">Begin with full-body assessment starting from the feet upward. Select findings for each joint or region.</p>
+
+<form method="post" action="/save_got_assessment">
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+        {% for region in [
+            'Feet', 'Ankles', 'Knees', 'Hips (Coxofemoral)',
+            'Sacrum', 'Pelvis (Innominate)', 'Lumbar Spine', 'Thoracic Spine',
+            'Ribs', 'Cervical Spine', 'Clavicles', 'Scapulae', 'Shoulders (Glenohumeral)'
+        ] %}
+        <div class="col">
+            <div class="card h-100 p-3 shadow-sm">
+                <h5 class="card-title">{{ region }}</h5>
+                <div class="form-group">
+                    <label for="{{ region|replace(' ', '_') }}">Findings:</label>
+                    <select class="form-select mt-2" name="findings[{{ region }}]" id="{{ region|replace(' ', '_') }}">
+                        <option value="">-- Select Finding --</option>
+                        <option>Restriction Left</option>
+                        <option>Restriction Right</option>
+                        <option>Hypermobile</option>
+                        <option>Hypomobile</option>
+                        <option>Normal</option>
+                        <option>Tender to Palpation</option>
+                        <option>Dysfunctional Pattern</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div class="mt-4">
+        <button type="submit" class="btn btn-primary">Save GOT Findings</button>
+    </div>
+</form>
+
+{% endblock %}
+

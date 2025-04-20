@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assessment Library</title>
+</head>
+<body>
+    <h1>Assessment Library</h1>
+    {% for i, data in enumerate(assessments) %}
+        <div style="margin: 20px; border: 1px solid #ccc; padding: 10px;">
+            <h3><a href="/assessment/{{ i }}">{{ data.name }}</a></h3>
+            <p><strong>Region:</strong> {{ data.region }}</p>
+            <p><strong>Steps:</strong> {{ data.steps[0] }}...</p>
+        </div>
+    {% endfor %}
+    <br>
+    <a href="/">← Back to Home</a>
+</body>
+</html>
+

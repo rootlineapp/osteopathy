@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block title %}Technique Library - Rootline{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <h2 class="mb-4">Technique Library</h2>
+    <div class="row">
+        {% for technique in techniques %}
+        <div class="col-md-6 mb-3">
+            <div class="card p-3">
+                <h5>{{ technique.name }}</h5>
+                <p><strong>Region:</strong> {{ technique.region }}</p>
+                <p><strong>Type:</strong> {{ technique.type }}</p>
+                <p><strong>Description:</strong> {{ technique.description }}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}
+

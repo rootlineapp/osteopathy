@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Technique Suggestions</title>
+</head>
+<body>
+    <h1>Technique Suggestions for {{ patient.data.name }}</h1>
+    <ul>
+        {% for t in techniques %}
+            <li>{{ t.name }} <em>(from {{ t.assessment }})</em></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
+
+

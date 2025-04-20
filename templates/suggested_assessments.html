@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Suggested Assessments</title>
+</head>
+<body>
+    <h1>Assessments for {{ patient.data.name }}</h1>
+    <form method="POST" action="{{ url_for('save_assessments', patient_id=patient.id) }}">
+     {% for assessment in assessments %}
+    <h3>{{ assessment }}</h3>
+
+    <label for="finding_{{ assessment }}">Choose finding:</label>
+    <select name="finding_{{ assessment }}">
+        <option value="">-- Select --</option>
+        {% for option in assessment_findings.get(assessment, []) %}
+            <option value="{{ option }}">{{ option }}</option>
+        {% endfor %}
+    </select>
+
+    <!-- 🖊️ Drawing link -->
+    <p>
+        <a href="{{ url_for('draw', patient_id=patient.id, assessment_name=assessment) }}" target="_blank">
+            ➕ Draw Findings for {{ assessment }}
+        </a>
+    </p>
+
+    <br><br>
+{% endfor %}
+ <button type="submit">✅ Save Findings</button>
+        <input type="submit" value="Submit Findings">
+    </form>
+</body>
+</html>
+
+
+

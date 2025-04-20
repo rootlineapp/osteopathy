@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block title %}Global Osteopathic Testing{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+  <h2 class="mb-4">Global Osteopathic Testing (GOT)</h2>
+
+  <form method="POST" action="{{ url_for('treatment_plan') }}">
+    <div class="mb-3">
+      <label class="form-label">GOT Finding #1</label>
+      <select class="form-select" name="got_findings">
+        <option value="">Select a finding...</option>
+        <option value="sacroiliac restriction">Sacroiliac restriction</option>
+        <option value="cranial base compression">Cranial base compression</option>
+        <option value="restricted lumbar">Restricted lumbar</option>
+        <option value="restricted cervical">Restricted cervical</option>
+        <option value="thoracic outlet congestion">Thoracic outlet congestion</option>
+      </select>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">GOT Finding #2</label>
+      <select class="form-select" name="got_findings">
+        <option value="">Select a finding...</option>
+        <option value="sacroiliac restriction">Sacroiliac restriction</option>
+        <option value="cranial base compression">Cranial base compression</option>
+        <option value="restricted lumbar">Restricted lumbar</option>
+        <option value="restricted cervical">Restricted cervical</option>
+        <option value="thoracic outlet congestion">Thoracic outlet congestion</option>
+      </select>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label">GOT Finding #3</label>
+      <select class="form-select" name="got_findings">
+        <option value="">Select a finding...</option>
+        <option value="sacroiliac restriction">Sacroiliac restriction</option>
+        <option value="cranial base compression">Cranial base compression</option>
+        <option value="restricted lumbar">Restricted lumbar</option>
+        <option value="restricted cervical">Restricted cervical</option>
+        <option value="thoracic outlet congestion">Thoracic outlet congestion</option>
+      </select>
+    </div>
+
+    <button type="submit" class="btn btn-success">Submit Findings & Generate Plan</button>
+  </form>
+</div>
+{% endblock %}
+

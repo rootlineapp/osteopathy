@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Visit Summary</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 40px;
+            line-height: 1.6;
+        }
+
+        h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 8px;
+            margin-top: 20px;
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .drawing-img {
+            max-width: 400px;
+            border: 1px solid #aaa;
+            margin-top: 10px;
+        }
+
+        .tech-box {
+            margin-bottom: 15px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            background-color: #f9f9f9;
+        }
+
+        .print-btn {
+            margin-top: 30px;
+            padding: 10px 20px;
+            font-size: 16px;
+            background: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        .print-btn:hover {
+            background: #0056b3;
+        }
+    </style>
+<!DOCTYPE html>
+<html>
+<head><title>Visit Summary</title></head>
+<body>
+  <h2>Visit Summary for {{ patient.data.name }}</h2>
+
+  <h4>Chief Complaints</h4>
+  <ul>
+    {% for c in patient.data.complaints %}
+      <li>{{ c }}</li>
+    {% endfor %}
+  </ul>
+
+  <h4>Assessment Findings</h4>
+  {% if findings %}
+    <ul>
+    {% for name, value in findings.items() %}
+      <li><strong>{{ name }}:</strong> {{ value }}</li>
+    {% endfor %}
+    </ul>
+  {% else %}
+    <p>No findings submitted.</p>
+  {% endif %}
+
+  <h4>Assessment Drawings</h4>
+  {% if drawings %}
+    <ul>
+      {% for d in drawings %}
+        <li><strong>{{ d.assessment }}</strong><br>
+          <img src="{{ url_for('static', filename='uploads/' ~ d.drawing_file) }}" width="300">
+        </li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No drawings uploaded.</p>
+  {% endif %}
+
+  <h4>Recommended Techniques (Based on Findings)</h4>
+  {% if techniques %}
+    <ul>
+      {% for a, tech in techniques.items() %}
+        <li><strong>{{ a }}</strong>: {{ tech.name }} ({{ tech.region }}, {{ tech.category }})</li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No techniques matched yet.</p>
+  {% endif %}
+
+  <button onclick="window.print()">🖨 Print / Save as PDF</button>
+</body>
+</html>
+
+
+

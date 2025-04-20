@@ -1,0 +1,66 @@
+{% extends "base.html" %}
+{% block title %}New Patient Intake - Rootline{% endblock %}
+
+{% block content %}
+<div class="container mt-5">
+  <h2 class="mb-4">🩺 New Patient Intake</h2>
+  <form method="POST" action="/new_patient">
+
+    <!-- Patient Info -->
+    <h5>Patient Information</h5>
+    <div class="mb-3 row">
+      <div class="col">
+        <input name="first_name" class="form-control" placeholder="First Name" required>
+      </div>
+      <div class="col">
+        <input name="last_name" class="form-control" placeholder="Last Name" required>
+      </div>
+      <div class="col">
+        <input name="dob" class="form-control" type="date" placeholder="Date of Birth">
+      </div>
+    </div>
+    <input name="address" class="form-control mb-3" placeholder="Address">
+    <div class="mb-3 row">
+      <div class="col">
+        <input name="phone" class="form-control" placeholder="Phone">
+      </div>
+      <div class="col">
+        <input name="email" class="form-control" placeholder="Email">
+      </div>
+    </div>
+
+    <!-- Emergency Contact -->
+    <h5>Emergency Contact & Physician</h5>
+    <div class="mb-3 row">
+      <div class="col">
+        <input name="emergency_contact" class="form-control" placeholder="Emergency Contact">
+      </div>
+      <div class="col">
+        <input name="emergency_phone" class="form-control" placeholder="Emergency Phone">
+      </div>
+    </div>
+    <input name="physician_name" class="form-control mb-2" placeholder="Family Physician Name">
+    <input name="physician_address" class="form-control mb-2" placeholder="Physician Address">
+    <input name="referring_provider" class="form-control mb-3" placeholder="Referring Provider (if applicable)">
+
+    <!-- Chief Complaint -->
+    <h5>Chief Complaint</h5>
+    <textarea name="chief_complaint" class="form-control mb-3" rows="3" placeholder="Describe symptoms, when it started, and aggravating/relieving factors..."></textarea>
+
+    <!-- Treatment History -->
+    <h5>Treatment History</h5>
+    <textarea name="previous_treatment" class="form-control mb-2" rows="2" placeholder="Previous treatment (e.g. physio, chiro, osteo)..."></textarea>
+    <textarea name="medications" class="form-control mb-2" rows="2" placeholder="Medications (past 6 months)..."></textarea>
+    <textarea name="investigations" class="form-control mb-3" rows="2" placeholder="Relevant medical investigations (X-rays, MRIs, etc)..."></textarea>
+
+    <!-- Consent -->
+    <div class="form-check mb-3">
+      <input class="form-check-input" type="checkbox" name="consent" required>
+      <label class="form-check-label">I consent to osteopathic assessment and treatment.</label>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit Intake</button>
+  </form>
+</div>
+{% endblock %}
+

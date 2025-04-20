@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Draw Findings</title>
+    <style>
+        canvas { border: 1px solid black; }
+    </style>
+</head>
+<body>
+    <h1>Draw for {{ assessment_name }}</h1>
+    <canvas id="canvas" width="500" height="300"></canvas><br>
+
+    <form method="POST" action="{{ url_for('save_drawing', patient_id=patient.id, assessment_name=assessment_name) }}">
+        <input type="hidden" name="drawing_data" id="drawing_data">
+        <button type="submit" onclick="saveDrawing()">Save Drawing</button>
+    </form>
+
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        let drawing = false;
+
+        canvas.onmousedown = () => drawing = true;
+        canvas.onmouseup = () => drawing = false;
+        canvas.onmousemove = draw;
+
+        function draw(e) {
+            if (!drawing) return;
+            ctx.lineWidth = 2;
+            ctx.lineCap = 'round';
+            ctx.strokeStyle = 'black';
+            ctx.lineTo(e.offsetX, e.offsetY);
+            ctx.stroke();
+            ctx.beginPath();
+            ctx.moveTo(e.offsetX, e.offsetY);
+        }
+
+        function saveDrawing() {
+            const dataURL = canvas.toDataURL();
+            document.getElementById('drawing_data').value = dataURL;
+        }
+    </script>
+</body>
+</html>
+

@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+{% block title %}Set Practitioner Shifts{% endblock %}
+{% block content %}
+<div class="container mt-4">
+  <h2>Practitioner Shift Setup</h2>
+
+  <form method="POST" class="row g-3">
+    <div class="col-md-4">
+      <label class="form-label">Practitioner</label>
+      <select class="form-select" name="practitioner_id" required>
+        {% for p in practitioners %}
+        <option value="{{ p.id }}">{{ p.name }}</option>
+        {% endfor %}
+      </select>
+    </div>
+
+    <div class="col-md-2">
+      <label class="form-label">Day</label>
+      <select name="day_of_week" class="form-select" required>
+        {% for day in ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'] %}
+        <option>{{ day }}</option>
+        {% endfor %}
+      </select>
+    </div>
+
+    <div class="col-md-2">
+      <label class="form-label">Start Time</label>
+      <input type="time" name="start_time" class="form-control" required>
+    </div>
+
+    <div class="col-md-2">
+      <label class="form-label">End Time</label>
+      <input type="time" name="end_time" class="form-control" required>
+    </div>
+
+    <div class="col-md-2 d-grid">
+      <label class="form-label invisible">Submit</label>
+      <button type="submit" class="btn btn-primary">Add Shift</button>
+    </div>
+  </form>
+
+  <hr>
+  <h4 class="mt-4">Current Shifts</h4>
+  <ul class="list-group">
+    {% for s in shifts %}
+    <li class="list-group-item">
+      {{ s.practitioner.name }} — {{ s.day_of_week }}: {{ s.start_time }} to {{ s.end_time }}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endblock %}
+

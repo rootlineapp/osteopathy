@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block title %}Welcome - Rootline{% endblock %}
+
+{% block content %}
+<div class="container text-center mt-5">
+    <img src="{{ url_for('static', filename='rootline-logo.png') }}" alt="Rootline Logo" style="max-width: 180px;" class="mb-4">
+
+    <h1 class="mb-3">Welcome to the Osteopathic Clinical App</h1>
+
+    <div class="d-grid gap-3 col-6 mx-auto mt-4">
+        <a class="btn btn-primary btn-lg" href="{{ url_for('intake_form') }}">+ New Patient Intake</a>
+        <a class="btn btn-outline-secondary btn-lg" href="{{ url_for('view_patients') }}">📋 View Existing Patients</a>
+        <a class="btn btn-outline-info btn-lg" href="{{ url_for('technique_library') }}">🧠 View Technique Library</a>
+        <a class="btn btn-outline-success btn-lg" href="{{ url_for('assessment_library') }}">🧪 View Assessment Library</a>
+        <a class="btn btn-outline-dark btn-lg" href="{{ url_for('schedule') }}">📅 Go to Schedule</a>
+    </div>
+</div>
+{% endblock %}
+
